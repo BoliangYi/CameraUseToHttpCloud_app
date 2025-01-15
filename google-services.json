@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654442639877",
+    "project_id": "expo-5110c",
+    "storage_bucket": "expo-5110c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654442639877:android:b675235e62886930bbe26c",
+        "android_client_info": {
+          "package_name": "com.anonymous.GoogleDriveIn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSox-VmJBWLNCKP0FxhdPNMoTcgVZWWuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654442639877:android:912064aa45d62f24bbe26c",
+        "android_client_info": {
+          "package_name": "com.bizzz.automation.CameraUseToHttpCloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSox-VmJBWLNCKP0FxhdPNMoTcgVZWWuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
